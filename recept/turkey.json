@@ -1,0 +1,11 @@
+{
+	"name": "turkey",
+	"times": 1,
+	"ingredients": [
+		{ "name": "turkey", "amount": 8, "unit": "kg" },
+		{ "name": "vegetable oil", "amount": 2, "unit": "tsp" },
+		{ "name": "salt", "amount": 1, "unit": "tsp" },
+		{ "name": "lemon", "amount": 1, "unit": "pc" },
+		{ "name": "sage", "amount": 2, "unit": "tsp" }
+	]
+}

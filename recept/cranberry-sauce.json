@@ -1,0 +1,9 @@
+{
+	"name": "cranberry sauce",
+	"times": 1,
+	"ingredients": [
+		{ "name": "orange", "amount": 0.5, "unit": "lb" },
+		{ "name": "cranberry", "amount": 0.75, "unit": "lb" },
+		{ "name": "sugar", "amount": 0.75, "unit": "cup" }
+	]
+}

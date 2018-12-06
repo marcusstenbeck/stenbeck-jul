@@ -1,0 +1,14 @@
+{
+	"name": "ginger bread cookies",
+	"times": 1,
+	"ingredients": [
+		{ "name": "butter", "amount": 150, "unit": "g" },
+		{ "name": "syrup (dark)", "amount": 2, "unit": "dl" },
+		{ "name": "sugar", "amount": 3, "unit": "dl" },
+		{ "name": "baking soda", "amount": 1, "unit": "tbsp" },
+		{ "name": "ginger", "amount": 1.25, "unit": "tbsp" },
+		{ "name": "lemon oil", "amount": 1, "unit": "tsp" },
+		{ "name": "heavy cream", "amount": 2, "unit": "dl" },
+		{ "name": "flour", "amount": 0.75, "unit": "kg" }
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "turkey gravy",
+	"times": 1,
+	"ingredients": [
+		{ "name": "turkey giblets", "amount": 1, "unit": "bag" },
+		{ "name": "carrot", "amount": 2, "unit": "pc" },
+		{ "name": "bay leaf", "amount": 3, "unit": "pc" },
+		{ "name": "celery", "amount": 2, "unit": "pc" }
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "sweet potatoes",
+	"times": 2,
+	"ingredients": [
+		{ "name": "sweet potato", "amount": 4, "unit": "pc" },
+		{ "name": "maple syrup", "amount": 0.5, "unit": "cup" },
+		{ "name": "orange juice", "amount": 0.5, "unit": "cup" },
+		{ "name": "margarine", "amount": 0.25, "unit": "cup" },
+		{ "name": "flour", "amount": 0.25, "unit": "cup" },
+		{ "name": "brown sugar", "amount": 3, "unit": "tbsp" },
+		{ "name": "cinnamon", "amount": 0.5, "unit": "tsp" },
+		{ "name": "pecan", "amount": 0.33, "unit": "cup" }
+	]
+}

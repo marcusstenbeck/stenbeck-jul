@@ -1,0 +1,11 @@
+{
+	"name": "knäck",
+	"times": 1,
+	"ingredients": [
+		{ "name": "syrup (light)", "amount": 2, "unit": "dl" },
+		{ "name": "heavy cream", "amount": 2, "unit": "dl" },
+		{ "name": "sugar", "amount": 2, "unit": "dl" },
+		{ "name": "sweet almond", "amount": 50, "unit": "g" },
+		{ "name": "knäckform", "amount": 75, "unit": "pc" }
+	]
+}

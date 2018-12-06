@@ -1,0 +1,15 @@
+{
+	"name": "meatballs",
+	"times": 3,
+	"ingredients": [
+		{ "name": "ground beef", "amount": 0.5, "unit": "kg" },
+		{ "name": "milk", "amount": 1, "unit": "dl" },
+		{ "name": "oatmeal", "amount": 1, "unit": "cup" },
+		{ "name": "egg", "amount": 3, "unit": "pc" },
+		{ "name": "worcestershire sauce", "amount": 1, "unit": "tbsp" },
+		{ "name": "garlic", "amount": 4, "unit": "pc" },
+		{ "name": "salt", "amount": 1, "unit": "tsp" },
+		{ "name": "pepper", "amount": 1, "unit": "tsp" },
+		{ "name": "onion", "amount": 0.5, "unit": "pc" }
+	]
+}

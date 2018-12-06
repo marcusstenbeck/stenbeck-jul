@@ -1,0 +1,11 @@
+{
+	"name": "pie crust",
+	"times": 2,
+	"ingredients": [
+		{ "name": "flour", "amount": 3, "unit": "dl" },
+		{ "name": "salt", "amount": 1, "unit": "krm" },
+		{ "name": "butter", "amount": 225, "unit": "g" },
+		{ "name": "lemon", "amount": 2, "unit": "tbsp" },
+		{ "name": "water", "amount": 5, "unit": "tbsp" }
+	]
+}

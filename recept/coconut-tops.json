@@ -1,0 +1,12 @@
+{
+	"name": "coconut tops",
+	"times": 1,
+	"ingredients": [
+		{ "name": "mandelmassa", "amount": 0.3, "unit": "kg" },
+		{ "name": "coconut (grated)", "amount": 0.2, "unit": "kg" },
+		{ "name": "sugar", "amount": 1, "unit": "dl" },
+		{ "name": "heavy cream", "amount": 4, "unit": "tbsp" },
+		{ "name": "vanilla", "amount": 1, "unit": "krm" },
+		{ "name": "lime", "amount": 1, "unit": "pc" }
+	]
+}

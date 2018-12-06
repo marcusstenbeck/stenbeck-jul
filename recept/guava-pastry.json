@@ -1,0 +1,9 @@
+{
+	"name": "star cookies",
+	"times": 1,
+	"ingredients": [
+		{ "name": "guava paste", "amount": 1, "unit": "pc" },
+		{ "name": "filodeg", "amount": 1, "unit": "pc" },
+		{ "name": "powdered sugar", "amount": 1, "unit": "pc" }
+	]
+}

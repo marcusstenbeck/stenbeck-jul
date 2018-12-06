@@ -1,0 +1,15 @@
+{
+	"name": "walnut pie",
+	"times": 1,
+	"ingredients": [
+		{ "name": "egg", "amount": 3, "unit": "pc" },
+		{ "name": "maple syrup", "amount": 2, "unit": "dl" },
+		{ "name": "syrup (light)", "amount": 0.5, "unit": "dl" },
+		{ "name": "brown sugar", "amount": 1, "unit": "dl" },
+		{ "name": "butter", "amount": 4, "unit": "tbsp" },
+		{ "name": "lemon", "amount": 1, "unit": "tsp" },
+		{ "name": "vanilla", "amount": 1, "unit": "tsp" },
+		{ "name": "salt", "amount": 1, "unit": "krm" },
+		{ "name": "walnuts", "amount": 5, "unit": "dl" }
+	]
+}

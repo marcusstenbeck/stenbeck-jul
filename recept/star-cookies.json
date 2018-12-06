@@ -1,0 +1,11 @@
+{
+	"name": "star cookies",
+	"times": 1,
+	"ingredients": [
+		{ "name": "sweet almond", "amount": 0.5, "unit": "kg" },
+		{ "name": "egg", "amount": 5, "unit": "pc" },
+		{ "name": "powdered sugar", "amount": 0.45, "unit": "kg" },
+		{ "name": "cherry brandy", "amount": 1, "unit": "tbsp" },
+		{ "name": "cinnamon", "amount": 2, "unit": "tbsp" }
+	]
+}

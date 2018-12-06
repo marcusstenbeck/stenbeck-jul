@@ -1,0 +1,14 @@
+{
+	"name": "eggnog",
+	"times": 5,
+	"ingredients": [
+		{ "name": "egg", "amount": 3, "unit": "pc" },
+    { "name": "sugar", "amount": 0.5, "unit": "cup" },
+		{ "name": "salt", "amount": 1, "unit": "dash" },
+    { "name": "milk", "amount": 2.5, "unit": "cup" },
+    { "name": "vanilla liquid", "amount": 1.5, "unit": "tsp" },
+    { "name": "heavy cream", "amount": 1, "unit": "cup" },
+    { "name": "powdered sugar", "amount": 2, "unit": "tbsp" },
+    { "name": "rum", "amount": 0.5, "unit": "cup" }
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "christmas tree macaroons",
+	"times": 1,
+	"ingredients": [
+		{ "name": "mandelmassa", "amount": 0.3, "unit": "kg" },
+		{ "name": "egg", "amount": 2, "unit": "pc" },
+		{ "name": "dark chocolate", "amount": 0.5, "unit": "kg" },
+		{ "name": "heavy cream", "amount": 1.5, "unit": "dl" }
+	]
+}

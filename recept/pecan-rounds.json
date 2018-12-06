@@ -1,0 +1,16 @@
+{
+	"name": "pecan rounds",
+	"times": 1,
+	"ingredients": [
+		{ "name": "cocoa", "amount": 6, "unit": "tbsp" },
+		{ "name": "butter", "amount": 1.25, "unit": "cup" },
+		{ "name": "sugar", "amount": 0.75, "unit": "cup" },
+		{ "name": "vanilla", "amount": 1, "unit": "tsp" },
+		{ "name": "flour", "amount": 2, "unit": "cup" },
+		{ "name": "baking powder", "amount": 0.25, "unit": "tsp" },
+		{ "name": "baking soda", "amount": 0.25, "unit": "tsp" },
+		{ "name": "pecan", "amount": 2, "unit": "cup" },
+		{ "name": "sugar", "amount": 0.25, "unit": "cup" },
+		{ "name": "cinnamon", "amount": 0.5, "unit": "tsp" }
+	]
+}

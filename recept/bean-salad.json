@@ -1,0 +1,15 @@
+{
+	"name": "bean salad",
+	"times": 3,
+	"ingredients": [
+		{ "name": "kidney bean", "amount": 2, "unit": "can" },
+		{ "name": "green bean", "amount": 1, "unit": "can" },
+		{ "name": "garbanzo bean", "amount": 1, "unit": "can" },
+		{ "name": "onion", "amount": 0.5, "unit": "cup" },
+		{ "name": "sugar", "amount": 0.5, "unit": "cup" },
+		{ "name": "salt", "amount": 1, "unit": "tsp" },
+		{ "name": "oil", "amount": 0.5, "unit": "cup" },
+		{ "name": "wine vinegar", "amount": 0.5, "unit": "cup" },
+		{ "name": "pepper", "amount": 0.25, "unit": "tsp" }
+	]
+}

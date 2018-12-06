@@ -1,0 +1,14 @@
+{
+	"name": "wasabi sill",
+	"times": 1,
+	"ingredients": [
+		{ "name": "matjessill", "amount": 2, "unit": "can" },
+		{ "name": "creme fraiche", "amount": 2, "unit": "dl" },
+		{ "name": "mayonnaise", "amount": 1, "unit": "tbsp" },
+		{ "name": "wasabi", "amount": 1, "unit": "tbsp" },
+		{ "name": "lime", "amount": 1, "unit": "pc" },
+		{ "name": "gräslök", "amount": 1, "unit": "pc" },
+		{ "name": "dill", "amount": 1, "unit": "pc" },
+		{ "name": "sugar", "amount": 1, "unit": "tsp" }
+	]
+}

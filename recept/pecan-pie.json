@@ -1,0 +1,13 @@
+{
+	"name": "pecan pie",
+	"times": 1,
+	"ingredients": [
+		{ "name": "butter", "amount": 0.3, "unit": "cup" },
+		{ "name": "brown sugar", "amount": 0.75, "unit": "cup" },
+		{ "name": "egg", "amount": 3, "unit": "pc" },
+		{ "name": "syrup (light)", "amount": 1, "unit": "cup" },
+		{ "name": "pecans", "amount": 1, "unit": "cup" },
+		{ "name": "vanilla", "amount": 1, "unit": "tsp" },
+		{ "name": "salt", "amount": 0.25, "unit": "tsp" }
+	]
+}

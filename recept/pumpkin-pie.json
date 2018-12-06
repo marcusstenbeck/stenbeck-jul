@@ -1,0 +1,17 @@
+{
+	"name": "pumpkin pie",
+	"times": 1,
+	"ingredients": [
+		{ "name": "pumpkin", "amount": 1, "unit": "kg" },
+		{ "name": "egg", "amount": 3, "unit": "pc" },
+		{ "name": "sugar", "amount": 0.5, "unit": "dl" },
+		{ "name": "brown sugar", "amount": 1, "unit": "dl" },
+		{ "name": "cinnamon", "amount": 1, "unit": "tsp" },
+		{ "name": "ground ginger", "amount": 1, "unit": "tsp" },
+		{ "name": "kryddpeppar", "amount": 0.75, "unit": "tsp" },
+		{ "name": "kryddnejlika", "amount": 0.25, "unit": "tsp" },
+		{ "name": "salt", "amount": 1, "unit": "krm" },
+		{ "name": "heavy cream", "amount": 2, "unit": "dl" },
+		{ "name": "milk", "amount": 4, "unit": "tbsp" }
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"name": "vanilla cookies",
+	"times": 1,
+	"ingredients": [
+		{ "name": "butter", "amount": 0.4, "unit": "kg" },
+		{ "name": "flour", "amount": 6, "unit": "dl" },
+		{ "name": "potato flour", "amount": 3, "unit": "dl" },
+		{ "name": "sugar", "amount": 2, "unit": "dl" },
+		{ "name": "baking powder", "amount": 1, "unit": "tsp" },
+		{ "name": "vanilla", "amount": 2, "unit": "tsp" },
+		{ "name": "hjorthornssalt", "amount": 1, "unit": "krm" }
+	]
+}
